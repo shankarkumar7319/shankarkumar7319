@@ -37,7 +37,8 @@ Databases & Tools
 1. Hostel-Management-System Web App
 
     Full-stack application built with HTML, CSS and JS.
-    Features: Add Student, Add New Room, In And Outtime, Vistior, Information Of All Student, Room Info, View Information, Leave Application.
+    Features: Add Student, Add New Room, In And Outtime, Vistior,
+    Information Of All Student, Room Info, View Information, Leave Application.
     Live Demo | Repository
 
 2. Portfolio Website
