@@ -57,8 +57,6 @@ Databases & Tools
 ## 📈 GitHub Stats
 
 [![Shankar’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankarkumar7319&show_icons=true&theme=radical)](https://github.com/shankarkumar7319)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkumar7319&layout=compact&langs_count=8&theme=radical)](https://github.com/shankarkumar7319)
-
 ---
 
 ## 📈 GitHub Streak & Activity
