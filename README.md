@@ -56,7 +56,20 @@ Databases & Tools
 
 ## 📈 GitHub Stats
 
-![Shankar’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankarkumar7319&show_icons=true&theme=radical)
+[![Shankar’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankarkumar7319&show_icons=true&theme=radical)](https://github.com/shankarkumar7319)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkumar7319&layout=compact&langs_count=8&theme=radical)](https://github.com/shankarkumar7319)
+
+---
+
+## 📈 GitHub Streak & Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shankarkumar7319&theme=radical)](https://github.com/shankarkumar7319)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=shankarkumar7319&color=0e75b6)
 
 ---
 
