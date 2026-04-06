@@ -34,12 +34,15 @@ Databases & Tools
 ---
 
 ## 🌟 Projects I'm Proud Of
-1. Hostel-Management-System Web App
+1. Product-Management-System-with-CRUD-Postman
+   The Product Management System is a web-based application developed using Spring Boot, Spring Data JPA, and MySQL. It is designed to manage product-related data     efficiently by performing basic CRUD operations (Create, Read, Update, Delete). Technologies Used* Backend: Spring Boot Database: MySQL ORM: Hibernate (JPA) API     Testing: Postman Server: Embedded Tomcat
 
-    Full-stack application built with HTML, CSS and JS.
-    Features: Add Student, Add New Room, In And Outtime, Vistior,
-    Information Of All Student, Room Info, View Information, Leave Application.
-    Live Demo | Repository
+*********Features********
+   ✅ 1. Add Product Users can add new products Product details include: ID Name Description Price Photo URL
+   ✅ 2. View Product Fetch a single product using ID
+   ✅ 3. View All Products Retrieve list of all products from database
+   ✅ 4. Update Product Modify existing product details
+   ✅ 5. Delete Product Remove product from database using ID
 
 2. Portfolio Website
 
@@ -47,12 +50,29 @@ Databases & Tools
     Built with React and Bootstrap for responsive design.
     Live Demo | Repository
 
-3. Expense Tracker
+3. Customer Management System With CRUD & POSTMAN
+    "Customer Management System is a Spring Boot-based application that manages customer data using MySQL. It provides REST APIs for registration, login, and            retrieving customer details, tested via Postman. The system follows a layered architecture with Controller, Service, and Repository, ensuring scalability and       clean code structure"
 
-    Web app to track and visualize income/expenses with interactive charts.
-    Uses Python/Django backend and React frontend with Chart.js.
-    Live Demo | Repository
----
+4. TaskMaster
+    Task-Master is a React-based task management application.
+    # React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+    
 
 ## 📈 GitHub Stats
 
